@@ -44,7 +44,6 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/kerndall-pertama
 
-
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -99,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/lib/me.jpeg
+avatar: _site/assets/lib/me.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
